@@ -21,4 +21,4 @@ Payme Checkout Module for Modx (Revolution )+ShopKeeper
 
  Ваш Endpoint URL :
  
- http://имя_вашего_сайта/assets/components/payment/result.php
+ http://имя_вашего_сайта/assets/components/payme/result.php
