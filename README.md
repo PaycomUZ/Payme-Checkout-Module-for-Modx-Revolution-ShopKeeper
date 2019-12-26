@@ -18,3 +18,7 @@ Payme Checkout Module for Modx (Revolution )+ShopKeeper
 5. Создать таблицы в существующей базе данных по шаблону «PaymeTransactions.sql», файл лежит  в  корне.
 6. Добавить в Shopkeeper новый способ оплаты. (Название -«Payme», Значение -«payme»).
 7. Прописать [[!Payme&runMode=\`2\`]] в поле «Код шаблона (html)»страницы. Символ "`".
+
+ Ваш Endpoint URL :
+ 
+ http://имя_вашего_сайта/assets/components/payment/result.php
